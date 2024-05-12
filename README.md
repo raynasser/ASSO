@@ -11,8 +11,8 @@ Tiller by SumUp dashboard designed to meet the needs of store owners by offering
 
 ### ✅ Goal
 
--	Comprehensive Analytics Solution: Develop a dashboard that offers store owners comprehensive insights and metrics, empowering them to better understand and optimize their operations, including tracking peak hours, correlating customer count with revenue, and identifying sales trends for specific items or categories over time periods.
--	Data-driven Decision Making: Enable store owners to make informed decisions based on the analysis provided by the dashboard. By leveraging data-driven insights, store owners can identify opportunities for growth and areas for improvement, ultimately enhancing profitability and fostering a stronger partnership with SumUp.
+- Comprehensive Analytics Solution: Develop a dashboard that offers store owners comprehensive insights and metrics, empowering them to better understand and optimize their operations, including tracking peak hours, correlating customer count with revenue, and identifying sales trends for specific items or categories over time periods.
+- Data-driven Decision Making: Enable store owners to make informed decisions based on the analysis provided by the dashboard. By leveraging data-driven insights, store owners can identify opportunities for growth and areas for improvement, ultimately enhancing profitability and fostering a stronger partnership with SumUp.
 
 
 ### 👀 Problem
